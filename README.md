@@ -30,8 +30,6 @@ Remember to add your bot token into .env otherwise it won't work.
 
 ---
 
-Please report any issue to FishOwO#9999 | `<@636879016061829121>` on discord or open an issue
+Please report any issue to FishOwO#9999 | `<@636879016061829121>` on discord or open an issue.
 
 Enjoy~ :D
-
-
